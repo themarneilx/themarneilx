@@ -205,6 +205,15 @@ philosophy    = "If it's not in the AUR, I'll build it myself."
 <!-- CONTRIBUTION GRAPH -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=themarneilx&bg_color=1e1e2e&color=cba6f7&line=f5c2e7&point=cdd6f4&area=true&area_color=cba6f730&hide_border=true&custom_title=Contribution%20Graph%20%E2%94%80%20%5Bmarneil%40archlinux%5D" alt="Contribution Graph"/>
 
+<br/><br/>
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+<br/>
+
+> 🐧 *3D contribution graph generated via [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — see workflow setup below*
+
+<img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+
 </div>
 
 <br/>
