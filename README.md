@@ -32,7 +32,7 @@
 <tr>
 <td width="300" align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="150"/>
+<img src="https://avatars.githubusercontent.com/u/151976802?v=4" width="150" style="border-radius:50%"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/I_use_Arch_btw-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=89b4fa"/>
 <br/><br/>
