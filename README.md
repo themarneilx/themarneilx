@@ -27,30 +27,55 @@
 
 <br/><br/>
 
-<!-- NEOFETCH ASCII ART -->
-```
-                                         marneil@archlinux
-        /\                               ──────────────────────
-       /  \                              OS: Arch Linux x86_64
-      /\   \                             Host: GitHub
-     /  ..  \                            Shell: zsh 5.9
-    /  .  .  \                           WM: Hyprland
-   / .      . \                          Theme: Catppuccin Mocha [mauve]
-  / .   /\   . \                         Terminal: kitty
- /.    /  \    .\                        Editor: Neovim
-/____/    \____\
-                                         Role: Full Stack Developer
-                                         ├─ Frontend: Next.js · React · Angular
-                                         ├─ Backend:  Node.js · Express · AWS
-                                         ├─ DB:       PostgreSQL · MySQL · Firebase
-                                         └─ DevOps:   Docker · Nginx · Linux
+<!-- NEOFETCH -->
+<table>
+<tr>
+<td width="300" align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="150"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/I_use_Arch_btw-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=89b4fa"/>
+<br/><br/>
+</td>
+<td>
 
-                                         Uptime: since 2024
-                                         Repos: 24
-                                         Packages: npm (too many to count)
+```properties
+marneil@archlinux
+──────────────────────────
+OS       ~ Arch Linux x86_64
+Host     ~ GitHub
+Shell    ~ zsh 5.9
+WM       ~ Hyprland
+Theme    ~ Catppuccin Mocha [mauve]
+Terminal ~ kitty
+Editor   ~ Neovim
 
-████████████████████████████████████████ I use Arch btw 🐧
+Role     ~ Full Stack Developer
+Frontend ~ Next.js · React · Angular
+Backend  ~ Node.js · Express · AWS
+Database ~ PostgreSQL · MySQL · Firebase
+DevOps   ~ Docker · Nginx · Linux
+Lang     ~ TypeScript · JavaScript · Python
+
+Uptime   ~ since 2024
+Repos    ~ 24
+Packages ~ npm (too many to count)
 ```
+
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/_%20-f38ba8?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-fab387?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-f9e2af?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-a6e3a1?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-94e2d5?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-89b4fa?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-cba6f7?style=flat-square" height="8"/>
+<img src="https://img.shields.io/badge/_%20-f5c2e7?style=flat-square" height="8"/>
+</p>
 
 </div>
 
@@ -69,7 +94,7 @@ portfolio     = "marneilx.org"
 distro        = "Arch Linux"    # btw
 
 [user.interests]
-code          = [ "Web Apps", "System Architecture", "Open Source" ]
+code          = [ "Web Apps", "System Architecture", "Open Source", "Python" ]
 linux         = [ "Ricing", "Dotfiles", "Terminal Workflows" ]
 philosophy    = "If it's not in the AUR, I'll build it myself."
 ```
@@ -117,6 +142,7 @@ philosophy    = "If it's not in the AUR, I'll build it myself."
 
 <img src="https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=a6e3a1"/>
 <img src="https://img.shields.io/badge/Express.js-1e1e2e?style=for-the-badge&logo=express&logoColor=cdd6f4"/>
+<img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af"/>
 <img src="https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonaws&logoColor=f9e2af"/>
 <img src="https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=89b4fa"/>
 <img src="https://img.shields.io/badge/Nginx-1e1e2e?style=for-the-badge&logo=nginx&logoColor=a6e3a1"/>
