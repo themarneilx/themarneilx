@@ -39,27 +39,27 @@
 </td>
 <td>
 
-```properties
-marneil@archlinux
-──────────────────────────
-OS       ~ Arch Linux x86_64
-Host     ~ GitHub
-Shell    ~ zsh 5.9
-WM       ~ Hyprland
-Theme    ~ Catppuccin Mocha [mauve]
-Terminal ~ kitty
-Editor   ~ Neovim
+```
+ marneil@archlinux
+ ──────────────────────────────────────
+ OS        Arch Linux x86_64
+ Host      GitHub
+ Shell     zsh 5.9
+ WM        Hyprland
+ Theme     Catppuccin Mocha [mauve]
+ Terminal  kitty
+ Editor    Neovim
 
-Role     ~ Full Stack Developer
-Frontend ~ Next.js · React · Angular
-Backend  ~ Node.js · Express · AWS
-Database ~ PostgreSQL · MySQL · Firebase
-DevOps   ~ Docker · Nginx · Linux
-Lang     ~ TypeScript · JavaScript · Python
+ Role      Full Stack Developer
+ Frontend  Next.js · React · Angular
+ Backend   Node.js · Express · AWS
+ Database  PostgreSQL · MySQL · Firebase
+ DevOps    Docker · Nginx · Linux
+ Lang      TypeScript · JavaScript · Python
 
-Uptime   ~ since 2024
-Repos    ~ 24
-Packages ~ npm (too many to count)
+ Uptime    since 2024
+ Repos     24
+ Packages  npm (too many to count)
 ```
 
 </td>
@@ -212,7 +212,7 @@ philosophy    = "If it's not in the AUR, I'll build it myself."
 
 > 🐧 *3D contribution graph generated via [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — see workflow setup below*
 
-<img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+<img width="98%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
 
 </div>
 
