@@ -29,27 +29,27 @@
 
 <!-- NEOFETCH ASCII ART -->
 ```
-                   -`                    marneil@archlinux
-                  .o+`                   ──────────────────
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Host: GitHub
-               `+oooooo:                 Shell: zsh 5.9
-               -+oooooo+:               WM: Hyprland
-             `/:-:++oooo+:               Theme: Catppuccin Mocha [mauve]
-            `/++++/+++++++:              Terminal: kitty
-           `/++++++++++++++:             Editor: Neovim
-          `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`          Role: Full Stack Developer
-        .oossssso-````/ossssss+`         ├─ Frontend: Next.js · React · Angular
-       -osssssso.      :ssssssso.        ├─ Backend:  Node.js · Express · AWS
-      :osssssss/        osssso+++.       ├─ DB:       PostgreSQL · MySQL · Firebase
-     /ossssssss/        +ssssooo/-       └─ DevOps:   Docker · Nginx · Linux
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:    Uptime: since 2024
- `++:.                           `-/+/   Repos: 24
- .`                                 `/   Packages: npm (too many to count)
+                                         marneil@archlinux
+        /\                               ──────────────────────
+       /  \                              OS: Arch Linux x86_64
+      /\   \                             Host: GitHub
+     /  ..  \                            Shell: zsh 5.9
+    /  .  .  \                           WM: Hyprland
+   / .      . \                          Theme: Catppuccin Mocha [mauve]
+  / .   /\   . \                         Terminal: kitty
+ /.    /  \    .\                        Editor: Neovim
+/____/    \____\
+                                         Role: Full Stack Developer
+                                         ├─ Frontend: Next.js · React · Angular
+                                         ├─ Backend:  Node.js · Express · AWS
+                                         ├─ DB:       PostgreSQL · MySQL · Firebase
+                                         └─ DevOps:   Docker · Nginx · Linux
 
- ████████████████████████████████████████ I use Arch btw 🐧
+                                         Uptime: since 2024
+                                         Repos: 24
+                                         Packages: npm (too many to count)
+
+████████████████████████████████████████ I use Arch btw 🐧
 ```
 
 </div>
