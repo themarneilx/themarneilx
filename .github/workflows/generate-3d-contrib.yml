@@ -2,8 +2,11 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:       # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,16 +14,15 @@ jobs:
     name: Generate 3D Profile Contrib
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: themarneilx
-      
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore: update 3D contribution graph" || true
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update 3D contribution graph" && git push)
